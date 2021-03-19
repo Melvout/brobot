@@ -1,0 +1,19 @@
+{
+  "name": "brobot",
+  "version": "1.0.0",
+  "description": "The Brobot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melvout/brobot.git"
+  },
+  "author": "Melvin NAMONT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melvout/brobot/issues"
+  },
+  "homepage": "https://github.com/Melvout/brobot#readme"
+}
